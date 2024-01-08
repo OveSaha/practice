@@ -383,7 +383,8 @@ p.pp2 {
 }
 
 .col-img-1 img {
-    width: 345px;
+    /* width: 345px; */
+    width: 325px;
     /* height: 330px; */
 }
 .row-img {
@@ -392,4 +393,12 @@ p.pp2 {
     align-content: center;
     justify-content: center;
     align-items: center;
+}
+
+/* footer */
+
+.footer-sec{
+    background-color: black;
+    color:#fff;
+
 }
