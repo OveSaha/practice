@@ -489,7 +489,7 @@ input[type="email"] {
 
 button.btn-last {
     width: 160px;
-    height: 59px;
+    height: 60px;
     font-size: 20px;
     margin: 0px 0px 0px -5px;
     border: none;
@@ -511,8 +511,8 @@ form {
 }
 
 
-
 /* footer */
+
 .text-foot-1 p {
     color: #FFF;
     font-family: 'Inter';
